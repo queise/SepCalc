@@ -1,7 +1,7 @@
 # SepCalc
 Calculation of asteroseismic parameters (separations, ratios and slopes), and chi-squared comparision with observed data.
 
-Needs some inputs, all present as example files in the example folder:
+Needs some inputs, all present as example files in the [example folder](example):
 - the observed acoustic frequencies of a star (star_observed.freqs)
 - other observed stellar properties (input.dat and star_observed.*)
 - the oscillation frequencies of a stellar model, calulated with [ADIPLS](http://astro.phys.au.dk/~jcd/adipack.n/) (star_model.freqs)
